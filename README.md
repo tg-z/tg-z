@@ -1,8 +1,8 @@
 <p align="center">
-<h3>tg-z</h3> 
+  <h3 align="center">tg-z</h3> 
 
-<h5>made with ❤️ by serafina</h5>
-<h5>connect with me:</h5>
+  <h5 align="center">made with ❤️ by serafina</h5>
+  <h5 align="center">connect with me:</h5>
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/parasite______"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
@@ -11,6 +11,5 @@
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/tg-z"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/>
 
-[@parasite______](https://twitter.com/parasite______) &nbsp;&nbsp;&nbsp;
 
 </p>
