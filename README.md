@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">tg-z</h3> 
-
+[![tg-z's github stats](https://github-readme-stats.vercel.app/api?username=tg-z)](https://github.com/anuraghazra/github-readme-stats)
   <h5 align="center">made with ❤️ by serafina</h5>
   <h5 align="center">connect with me:</h5>
 <p align="center">
