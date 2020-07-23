@@ -18,6 +18,6 @@
   </p>
 
   <p align = "center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/e7d3c9e1-d7f9-40dd-8451-1efab2c99216.png" height="20px" width="20px"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/e7d3c9e1-d7f9-40dd-8451-1efab2c99216.png" height="60px" width="90px"/></a>
   </p>
 
