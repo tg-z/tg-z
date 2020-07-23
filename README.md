@@ -18,8 +18,8 @@
   </p>
 
   <p align = "center">
-    <figure>
-      <embed src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/cd1c7e68-86aa-47ab-8393-45ef76047fc6.svg"></embed>
+  <figure>
+    <embed src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/cb3f2b76-84e7-46e3-8c22-6063b0c0d87c.svg"></embed>
 </figure>
   </p>
 
