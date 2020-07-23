@@ -1,7 +1,5 @@
 <p align="center">
   <h3 align="center">tg-z</h3>
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tg-z)](https://github.com/anuraghazra/github-readme-stats) 
-  [![tg-z's github stats](https://github-readme-stats.vercel.app/api?username=tg-z&show_icons=true&hide=["issues"])](https://github.com/anuraghazra/github-readme-stats)
   <h5 align="center">made with ❤️ by serafina</h5>
   <h5 align="center">connect with me:</h5>
 <p align="center">
@@ -14,3 +12,5 @@
 
 
 </p>
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tg-z)](https://github.com/anuraghazra/github-readme-stats)
+  [![tg-z's github stats](https://github-readme-stats.vercel.app/api?username=tg-z&show_icons=true&hide=["issues"])](https://github.com/anuraghazra/github-readme-stats)
