@@ -12,13 +12,10 @@
 
 
 </p>
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tg-z)](https://github.com/anuraghazra/github-readme-stats)
-  [![tg-z's github stats](https://github-readme-stats.vercel.app/api?username=tg-z&show_icons=true&hide=["issues"])](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
-  <summary>Coistics...</summary>
+  <summary>Codistics...</summary>
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tg&show_icons=true "/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tg-z&show_icons=true"/>
   </p>
 </details>
 <details>
