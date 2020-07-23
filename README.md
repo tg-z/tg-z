@@ -12,15 +12,14 @@
 
 
 </p>
-<details>
-  <summary>C...</summary>
+
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=tg-z&show_icons=true"/>
   </p>
-</details>
-<details>
-  <summary>Language Statistics...</summary><br/>
+
   <p align = "center">
-    <figure><embed src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/cd1c7e68-86aa-47ab-8393-45ef76047fc6.svg"></embed></figure>
+    <figure>
+      <embed src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/cd1c7e68-86aa-47ab-8393-45ef76047fc6.svg"></embed>
+</figure>
   </p>
-</details>
+
