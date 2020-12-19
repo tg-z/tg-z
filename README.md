@@ -11,9 +11,7 @@
 <a href="https://github.com/tg-z"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/parasite______">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="evalchan's dev.to profile" height="20" width="20">
-</a>
-<i class="fab fa-github-alt"></i>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="evalchan's dev.to profile" height="20" width="20"></a>
 </p>
 <br>
 
