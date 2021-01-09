@@ -4,14 +4,13 @@
   <h5 align="center">connect with me:</h5>
 <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/parasite______"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
+<a href="https://twitter.com/parasite______"><img src="https://pond.computer/static/fonts/fontaws/svgs/brands/twitter.svg" height="20px" width="20px" alt="twitter"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.are.na/tg-z"><img src="https://d2hp0ptr16qg89.cloudfront.net/assets/127302a/touch-icon-iphone-retina.png" height="20px" width="20px"/></a>
+<a href="https://www.are.na/tg-z"><img src="https://pond.computer/static/fonts/fontaws/svgs/brands/arena.svg" height="20px" width="20px" alt="are.na"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/tg-z"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/></a>
+<a href="https://github.com/tg-z"><img src="https://pond.computer/static/fonts/fontaws/svgs/brands/github-alt.svg" height="20px" width="20px" alt="github"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/parasite______">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="evalchan's dev.to profile" height="20" width="20"></a>
+<a href="https://dev.to/parasite______"><img src="https://pond.computer/static/fonts/fontaws/svgs/brands/dev.svg" alt="dev.to" height="20" width="20"></a>
 </p>
 <br>
 
