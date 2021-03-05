@@ -14,6 +14,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/tg-z"><img src="https://github-readme-stats.vercel.app/api?username=tg-z&show_icons=true&layout=compact"></a>
+<a href="https://github.com/tg-z"><img src="https://github-contribution-stats.vercel.app/api/?username=tg-z"></a>
 </p>
 <details>
   <summary><img src="https://win98icons.alexmeub.com/icons/png/chart1-2.png"> Statistics</summary> 
